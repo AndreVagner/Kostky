@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(0, 9, 19);
+  text-align: center;
+}
+
+.moznost {
+  font-size: 30px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+
+.zpet{
+  font-size: 50px;
+  }
+
+.nejakyDiv{
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+
+}
+.vysledek{
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+}
+.moznost:hover {
+  color: slateblue;
+}
+@keyframes test {
+    0% {color: red;top: 2vh}
+    50% {color: green;top: 2vh}
+    100% {color: blue;top: 2vh}
+
+  }
+a{
+  font-size: 30px;
+  text-decoration: none;
+}
+.zpet{
+  font-size: 30px;
+  text-decoration: none;
+  margin-top: 5em;
+}
+
+.obr{
+  position: fixed;
+  margin-left: -4em;
+  margin-top: -0.5em;
+
+}
+
+.nevim{
+  animation: test 2s infinite alternate-reverse;
+  animation-delay: 0s;
+}
+h1{color: rgb(255, 255, 255);
+
+}
+h2{color: rgb(255, 255, 255);
+
+}
+h3{color: rgb(255, 255, 255);
+
+}
